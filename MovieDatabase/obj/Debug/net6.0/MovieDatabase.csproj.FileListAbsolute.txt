@@ -1,0 +1,15 @@
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/bin/Debug/net6.0/MovieDatabase
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/bin/Debug/net6.0/MovieDatabase.deps.json
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/bin/Debug/net6.0/MovieDatabase.runtimeconfig.json
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/bin/Debug/net6.0/MovieDatabase.dll
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/bin/Debug/net6.0/MovieDatabase.pdb
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.csproj.AssemblyReference.cache
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.AssemblyInfoInputs.cache
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.AssemblyInfo.cs
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.csproj.CoreCompileInputs.cache
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.dll
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/refint/MovieDatabase.dll
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.pdb
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/MovieDatabase.genruntimeconfig.cache
+/Users/elberfunez/Projects/MovieDatabase/MovieDatabase/obj/Debug/net6.0/ref/MovieDatabase.dll
